@@ -1,17 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee2fa076-985b-4c58-8b92-2c7c09b7b91b" name="Default" comment="lkj">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nifi-ngsi-bundle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/nifi-ngsi-nar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/nifi-ngsi-processors.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiware_draco_.iml" beforeDir="false" />
+    <list default="true" id="ee2fa076-985b-4c58-8b92-2c7c09b7b91b" name="Default" comment="jjjjjjj">
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/.plxarc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ParCEFone-1.2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/Saxon-HE-9.6.0-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/accessors-smart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/activemq-client-5.15.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aggdesigner-algorithm-6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ant-1.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/antlr-runtime-3.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/antlr4-runtime-4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/asm-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/asm-5.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avatica-core-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avatica-metrics-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avro-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-cloudwatch-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-cloudwatchmetrics-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-core-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-dynamodb-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-kinesis-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-kms-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-lambda-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-s3-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sns-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sqs-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sts-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcpg-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcpkix-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcprov-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bval-core-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bval-jsr-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/calcite-core-1.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/calcite-linq4j-1.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-beanutils-core-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-cli-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-compiler-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-compress-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-configuration-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-csv-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-dbcp2-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-digester-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-el-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-httpclient-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-math-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-net-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-pool2-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-text-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/core-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/esri-geometry-api-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/geronimo-jms_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hadoop-core-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hawtbuf-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hsqldb-1.8.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ion-java-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jBCrypt-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-annotations-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-core-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-databind-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-dataformat-cbor-2.6.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-jaxrs-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-mapper-asl-1.8.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-xc-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/janino-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jasper-compiler-5.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jasper-runtime-5.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/java-grok-0.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.el-api-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.jms-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.ws.rs-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jaxb-api-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jaxb-impl-2.2.3-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-core-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-json-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-server-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jets3t-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jettison-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jetty-6.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jetty-util-6.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jmespath-java-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/joda-time-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jolt-core-0.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsch-0.1.54.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-20160810.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-flattener-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-path-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-simple-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-smart-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-utils-0.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsp-2.1-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsp-api-2.1-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsr305-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jzlib-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/lzma-java-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/macnificent-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/mail-1.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/memory-0.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/minimal-json-0.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-avro-record-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-abstract-processors-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-processors-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-service-api-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-flowfile-packager-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-json-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-logging-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-ngsi-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-processor-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-proxy-configuration-api-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-record-path-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-security-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-socket-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-processors-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-record-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-syslog-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okhttp-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okhttp-digest-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okio-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/org.abego.treelayout.core-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/oro-2.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/paranamer-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/protobuf-java-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/servlet-api-2.5-20081211.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/servlet-api-2.5-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/simple-syslog-5424-0.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/sketches-core-0.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/snappy-java-1.1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/stax-api-1.0-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/super-csv-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/tika-core-1.19.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/xmlenc-0.52.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/xz-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/nifi-ngsi-nar-1.0-SNAPSHOT.nar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/.plxarc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/services/org.apache.nifi.processor.Processor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/backends/DynamoBackend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Attributes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants$LoggingLevels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Metadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSICharsets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSIToDynamo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/groovy-tests/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/nifi-ngsi-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/test-classes/org/apache/nifi/processors/ngsi/TestNGSIToDynamo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +220,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -147,6 +328,11 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="cf60dff5-864a-4215-bd13-1efdfbd5b74f" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="vpintor" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="fiware-draco" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -210,10 +396,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578948000207" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578950386272" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\verop\IdeaProjects\nifi-ngsi-dynamodb\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\verop\IdeaProjects\nifi-ngsi-dynamodb\.idea\libraries" />
     </key>
@@ -425,12 +615,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542920708872</updated>
-      <workItem from="1578947277715" duration="722000" />
+      <workItem from="1578947277715" duration="2983000" />
     </task>
+    <task id="LOCAL-00001" summary="jjjjjjj">
+      <created>1578948170149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578948170149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1426000" />
+    <option name="totallyTimeSpent" value="3687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -463,10 +661,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="SBT Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.52974504" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Debug Logs" order="10" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Salesforce" order="12" />
       <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Execute Anonymous" order="14" />
@@ -489,11 +687,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lkjlkjkj" />
     <MESSAGE value="j" />
     <MESSAGE value="lkj" />
-    <option name="LAST_COMMIT_MESSAGE" value="lkj" />
+    <MESSAGE value="jjjjjjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjjjjjj" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mkdocs.yml">
@@ -625,7 +850,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

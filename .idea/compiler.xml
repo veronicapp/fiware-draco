@@ -10,5 +10,10 @@
         <module name="nifi-ngsi-processors" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nifi-ngsi-bundle" target="1.8" />
+      <module name="nifi-ngsi-nar" target="1.8" />
+      <module name="nifi-ngsi-processors" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,9 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="ee2fa076-985b-4c58-8b92-2c7c09b7b91b" name="Default" comment="jjjjjjj">
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/.plxarc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ParCEFone-1.2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/Saxon-HE-9.6.0-5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/accessors-smart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/activemq-client-5.15.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aggdesigner-algorithm-6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ant-1.6.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/antlr-runtime-3.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/antlr4-runtime-4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/asm-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/asm-5.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avatica-core-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avatica-metrics-1.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/avro-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-cloudwatch-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-cloudwatchmetrics-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-core-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-dynamodb-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-kinesis-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-kms-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-lambda-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-s3-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sns-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sqs-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/aws-java-sdk-sts-1.11.461.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcpg-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcpkix-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bcprov-jdk15on-1.60.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bval-core-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/bval-jsr-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/calcite-core-1.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/calcite-linq4j-1.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-beanutils-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-beanutils-core-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-cli-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-compiler-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-compress-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-configuration-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-csv-1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-dbcp2-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-digester-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-el-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-httpclient-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-lang-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-math-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-net-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-pool2-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/commons-text-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/core-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/esri-geometry-api-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/geronimo-jms_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hadoop-core-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hawtbuf-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/hsqldb-1.8.0.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/ion-java-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jBCrypt-0.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-annotations-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-core-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-databind-2.9.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-dataformat-cbor-2.6.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-jaxrs-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-mapper-asl-1.8.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jackson-xc-1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/janino-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jasper-compiler-5.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jasper-runtime-5.5.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/java-grok-0.1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.el-api-3.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.jms-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/javax.ws.rs-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jaxb-api-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jaxb-impl-2.2.3-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-core-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-json-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jersey-server-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jets3t-0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jettison-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jetty-6.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jetty-util-6.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jmespath-java-1.11.504.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/joda-time-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jolt-core-0.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsch-0.1.54.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-20160810.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-flattener-0.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-path-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-simple-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-smart-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/json-utils-0.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsp-2.1-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsp-api-2.1-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jsr305-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/jzlib-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/lzma-java-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/macnificent-0.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/mail-1.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/memory-0.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/minimal-json-0.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-avro-record-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-abstract-processors-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-processors-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-aws-service-api-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-flowfile-packager-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-json-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-logging-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-ngsi-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-processor-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-proxy-configuration-api-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-record-path-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-security-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-socket-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-processors-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-record-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-standard-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-syslog-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/nifi-utils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okhttp-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okhttp-digest-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/okio-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/org.abego.treelayout.core-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/oro-2.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/paranamer-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/protobuf-java-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/servlet-api-2.5-20081211.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/servlet-api-2.5-6.1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/simple-syslog-5424-0.0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/sketches-core-0.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/snappy-java-1.1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/stax-api-1.0-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/super-csv-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/tika-core-1.19.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/xmlenc-0.52.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/classes/META-INF/bundled-dependencies/xz-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/maven-shared-archive-resources/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/nifi-ngsi-nar-1.0-SNAPSHOT.nar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-nar/target/test-classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/.plxarc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/META-INF/services/org.apache.nifi.processor.Processor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/backends/DynamoBackend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Attributes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants$LoggingLevels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/Metadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSICharsets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/classes/org/apache/nifi/processors/ngsi/NGSIToDynamo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-shared-archive-resources/META-INF/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/maven-status/maven-compiler-plugin/testCompile/groovy-tests/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/nifi-ngsi-processors-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nifi-ngsi-processors/target/test-classes/org/apache/nifi/processors/ngsi/TestNGSIToDynamo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
     <list default="true" id="ee2fa076-985b-4c58-8b92-2c7c09b7b91b" name="Default" comment="Fix PostgreSQl test for travis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/nifi-ngsi-bundle/target/" />
@@ -24,15 +215,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+=======
         <entry file="file://$PROJECT_DIR$/nifi-ngsi-bundle/nifi-ngsi-processors/src/test/java/org/apache/nifi/processors/ngsi/TestNGSIToPostgreSQL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="334">
               <caret line="590" column="78" selection-start-line="590" selection-start-column="78" selection-end-line="590" selection-end-column="78" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+=======
         <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_carto_sink.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -52,11 +263,21 @@
                 <caret line="3" column="83" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="127" />
               </first_editor>
               <second_editor />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/test/java/org/apache/nifi/processors/ngsi/TestNGSIToDynamo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3655">
+              <caret line="215" column="96" selection-start-line="215" selection-start-column="96" selection-end-line="215" selection-end-column="96" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
         <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_cassandra_sink.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -64,21 +285,35 @@
                 <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
               </first_editor>
               <second_editor />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/Entity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
         <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_mongo_sink.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
               <second_editor />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/Attributes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
         <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_hdfs_sink.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -86,11 +321,21 @@
                 <caret line="310" column="600" selection-start-line="310" selection-start-column="600" selection-end-line="310" selection-end-column="600" />
               </first_editor>
               <second_editor />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
         <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/issues_and_contact.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -126,11 +371,46 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/NGSICharsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="191" column="20" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2839">
+              <caret line="167" column="44" selection-start-line="167" selection-start-column="44" selection-end-line="167" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -181,11 +461,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cf60dff5-864a-4215-bd13-1efdfbd5b74f" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="vpintor" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="fiware-draco" />
+=======
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -237,6 +528,14 @@
         <option value="$PROJECT_DIR$/nifi-ngsi-bundle/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/ngsi/backends/PostgreSQLBackend.java" />
         <option value="$PROJECT_DIR$/nifi-ngsi-bundle/nifi-ngsi-processors/src/test/java/org/apache/nifi/processors/ngsi/TestNGSIToPostgreSQL.java" />
         <option value="$PROJECT_DIR$/README.md" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/docs/quick_start_guide.md" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+=======
         <option value="$PROJECT_DIR$/docs/processors_catalogue/ngsi_cassandra_sink.md" />
         <option value="$PROJECT_DIR$/docs/processors_catalogue/ngsi_hdfs_sink.md" />
         <option value="$PROJECT_DIR$/docs/processors_catalogue/ngsi_carto_sink.md" />
@@ -251,6 +550,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -263,6 +563,11 @@
           <item name="nifi-ngsi-bundle" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+<<<<<<< HEAD
+      </expand>
+      <select />
+    </treeState>
+=======
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="nifi-ngsi-processors" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -288,17 +593,42 @@
     <option name="y" value="25" />
     <option name="width" value="1213" />
     <option name="height" value="999" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="445" />
+    <option name="y" value="20" />
+    <option name="width" value="1439" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+<<<<<<< HEAD
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+=======
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+              <item name="nifi-ngsi-dynamodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nifi-ngsi-dynamodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nifi-ngsi-dynamodb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nifi-ngsi-dynamodb" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="fiware-draco" type="b2602c69:ProjectViewProjectNode" />
               <item name="fiware-draco" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -312,17 +642,50 @@
               <item name="fiware-draco" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="processors_catalogue" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
       <pane id="Scope" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578950386272" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\verop\IdeaProjects\nifi-ngsi-dynamodb\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\verop\IdeaProjects\nifi-ngsi-dynamodb\.idea\libraries" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+=======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571218555713" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -401,6 +764,7 @@
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App" singleton="true">
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
       <module name="" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -426,6 +790,54 @@
         <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+=======
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -566,6 +978,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
@@ -576,6 +989,98 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="fiware-draco" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+=======
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestNGSIToPostgreSQL.testValuesForInsertRowWithoutMetada" />
@@ -586,6 +1091,7 @@
       </list>
     </recent_temporary>
   </component>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -596,6 +1102,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542920708872</updated>
+<<<<<<< HEAD
+      <workItem from="1578947277715" duration="2983000" />
+    </task>
+    <task id="LOCAL-00001" summary="jjjjjjj">
+      <created>1578948170149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578948170149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3687000" />
+=======
       <workItem from="1548146705911" duration="4441000" />
       <workItem from="1548173723041" duration="29543000" />
       <workItem from="1548411657334" duration="604000" />
@@ -993,6 +1515,7 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="175736000" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1004,6 +1527,50 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21677852" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.52974504" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Debug Logs" order="10" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Salesforce" order="12" />
+      <window_info anchor="bottom" id="SBT Execute" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="LuaJ" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+=======
     <frame x="67" y="25" width="1213" height="999" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -1049,11 +1616,46 @@
       <window_info anchor="right" id="Database" order="11" />
       <window_info anchor="right" id="Bean Validation" order="12" />
       <window_info anchor="right" id="SciView" order="13" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lkjlkjkj" />
+    <MESSAGE value="j" />
+    <MESSAGE value="lkj" />
+    <MESSAGE value="jjjjjjj" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjjjjjj" />
+=======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updating roadmap" />
     <MESSAGE value="updating dependencies for 1.8.0 version" />
@@ -1085,15 +1687,21 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nifi-ngsi-bundle/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSIToCarto.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="180">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+=======
         <state relative-caret-position="6030">
           <caret line="432" column="41" selection-start-line="432" selection-start-column="41" selection-end-line="432" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
         </state>
       </provider>
     </entry>
@@ -1306,8 +1914,13 @@
     <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
+          <first_editor relative-caret-position="846">
+            <caret line="47" column="102" selection-start-line="47" selection-start-column="100" selection-end-line="47" selection-end-column="102" />
+=======
           <first_editor relative-caret-position="120">
             <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="53" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
           </first_editor>
           <second_editor />
         </state>
@@ -1396,6 +2009,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nifi-ngsi-bundle/nifi-ngsi-processors/src/test/java/org/apache/nifi/processors/ngsi/TestNGSIToPostgreSQL.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-988" />
+=======
         <state relative-caret-position="334">
           <caret line="590" column="78" selection-start-line="590" selection-start-column="78" selection-end-line="590" selection-end-column="78" />
         </state>
@@ -1437,18 +2053,129 @@
           </first_editor>
           <second_editor />
         </state>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_cassandra_sink.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
+          <first_editor relative-caret-position="378">
+            <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <folding />
+=======
           <first_editor relative-caret-position="360">
             <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSIToDynamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2357">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/backends/DynamoBackend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/test/java/org/apache/nifi/processors/ngsi/TestNGSIToDynamo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3655">
+          <caret line="215" column="96" selection-start-line="215" selection-start-column="96" selection-end-line="215" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/Attributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/NGSIUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/CommonConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/src/main/java/org/apache/nifi/processors/ngsi/NGSI/utils/NGSICharsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="20" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nifi-ngsi-processors/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" column="44" selection-start-line="167" selection-start-column="44" selection-end-line="167" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/docs/processors_catalogue/ngsi_carto_sink.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1553,5 +2280,6 @@
         </settings>
       </state>
     </states>
+>>>>>>> 00de8faca56b846c1e9220317a1af82e26da65d3
   </component>
 </project>
